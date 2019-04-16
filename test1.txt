@@ -1,3 +1,4 @@
 Dog breeds:
-labrador
+st bernard
+shi tzu
 great dane
